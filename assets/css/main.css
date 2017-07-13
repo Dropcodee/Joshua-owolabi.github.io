@@ -435,7 +435,7 @@ h3 {
 
 header {
   height: 600px;
-  background: url("../img/homepage.jpeg") center center;
+  background: url("../img/homepage-min.jpeg") center center;
   background-size: cover;
   background-attachment: fixed; }
   header .header-overlay {
@@ -789,7 +789,7 @@ header {
     width: 50px; } }
 
 .contact {
-  background-image: url("../img/homepage.jpeg");
+  background-image: url("../img/homepage-min.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -899,7 +899,7 @@ header {
       color: #E1C184; }
 
 footer {
-  background: url("../img/homepage.jpeg") center center;
+  background: url("../img/homepage-min.jpeg") center center;
   background-size: cover;
   background-attachment: fixed;
   margin: 0; }
